@@ -1,0 +1,53 @@
+/*  75eaff = azul -> Títulos */
+.titulo-principa{
+    padding-left:20px;
+    color: ;
+    
+}
+#banner{
+    width: 100%;
+
+}
+
+.principal{
+    background-color: #cccccc;
+    padding: 30px;
+}
+
+.titulo-centralizado{
+    text-align: center;
+
+}
+
+p{
+    text-align: center;
+
+}
+
+#missao{
+    font-size: 20px;
+}
+
+em strong{
+    color: #ff5c5c;
+}
+
+.beneficios{
+    padding: 20px;
+}
+
+imagem-beneficios{
+    width: ;
+}
+
+ul{
+    display: inline-block;
+    width: 20px;
+    vertical-align: top;
+    margin-right: 15%;    
+}
+
+.itens{
+    font-style: italic;
+
+}
